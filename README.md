@@ -31,6 +31,7 @@ open examples/gsap-hello.html
 
 | File / folder | Isi |
 |---|---|
+| **[CREDITS.md](CREDITS.md)** | ⭐ Pembuat asli tiap skill & repo — wajib dibaca sebelum share/fork |
 | **[TUTORIAL.md](TUTORIAL.md)** | ⭐ Mulai dari sini: install → Short 60 detik pertama → animasi GSAP |
 | **[INSTALL.md](INSTALL.md)** | Cara orang lain install repo ini (sudah dites: 22 skill ketemu) |
 | **[SKILLS.md](SKILLS.md)** | Ringkasan 1-baris + kapan pakai tiap dari 22 skill |
