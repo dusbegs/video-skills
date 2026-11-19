@@ -6,6 +6,10 @@ di-clone 18 Nov 2026. Satu tempat, biar nggak nyari-nyari lagi.
 
 - **Dibuat:** 19 Nov 2026
 - **Isi:** 22 skill (Remotion 13 + GSAP 8 + Humanizer 1), 280 file, ~1,7 MB
+- **Biar orang lain install:** lihat `INSTALL.md` — sudah dites,
+  `npx skills add <repo-ini> --list` menemukan 22 skill. Caranya:
+  push repo ini ke GitHub publik, lalu orang lain tinggal
+  `npx skills add <username>/video-skills --all`.
 - **Sumber asli:** `~/workspace/.agents/skills/` (hasil
   `npx skills add remotion-dev/skills && npx skills add greensock/gsap-skills && npx skills add blader/humanizer`)
 - **Aturan andet:** hanya yang gratisan. Semua skill di sini gratis.
